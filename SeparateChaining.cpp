@@ -1,3 +1,4 @@
+// Hasing - Separate Chaining
 #include <iostream>
 #include <cstdlib>
 using namespace std;
